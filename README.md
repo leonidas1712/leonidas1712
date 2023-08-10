@@ -8,6 +8,8 @@
 - 📝 I write tech articles on [Medium](https://medium.com/@leonidasr2000).
 
 - 💬 Ask me about **Rust, Java, or Python**. Please reach out if you have any internship or research opportunities to share!
+  
+- 📄 See my [resume](https://magenta-roxanne-87.tiiny.site/)  
 
 - 📫 How to reach me: **leonidasr2000@gmail.com**
 
