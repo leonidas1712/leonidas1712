@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Docker, Node.js and concurrent programming in Rust.**
 
-- 📝 I write articles on [https://medium.com/@leonidasr2000](https://medium.com/@leonidasr2000)
+- 📝 I write articles on [Medium](https://medium.com/@leonidasr2000).
 
 - 💬 Ask me about **Rust, Java, or Python**. Please reach out if you have any internship or research opportunities to share!
 
