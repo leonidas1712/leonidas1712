@@ -7,7 +7,7 @@
 
 - 📝 I write articles on [https://medium.com/@leonidasr2000](https://medium.com/@leonidasr2000)
 
-- 💬 Ask me about **Rust, Java, or Python**
+- 💬 Ask me about **Rust, Java, or Python**. Please reach out if you have any internship or research opportunities to share!
 
 - 📫 How to reach me: **leonidasr2000@gmail.com**
 
