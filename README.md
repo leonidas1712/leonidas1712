@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonidas</h1>
 <h3 align="center">A Year 3 Computer Science major at the National University of Singapore passionate about systems programming, programming languages, algorithms and web development.</h3>
 
-- 👀 I’m currently looking for internships related to Software Engineering for May 2024 - November 2024
+- 👀 I’m looking for internships related to Software Engineering for May 2024 - November 2024
 
 - 🔭 I’m currently working on [Nova, a functional programming language inspired by Haskell and Lisp.](https://github.com/leonidas1712/nova)
 
