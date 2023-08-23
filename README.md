@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Rust, Java, or Python**. Please reach out if you have any internship or research opportunities to share!
   
-- 📄 See my [resume](https://drive.google.com/file/d/1MIzXbKZ8D1jEzxcIvz4GHPhoD6lgiYe8/view?usp=sharing)  
+- 📄 See my [resume](https://drive.google.com/file/d/1S6u-HWRs5mCOkWlcEkEWPTdENWePJptc/view?usp=sharing)  
 
 - 📫 How to reach me: **leonidasr2000@gmail.com**
 
