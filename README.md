@@ -7,7 +7,7 @@
 
 - 📝 I write tech articles on [Medium](https://medium.com/@leonidasr2000).
 
-- 💬 Ask me about **Rust, Java, or Python**. Please reach out if you have any internship or research opportunities to share!
+- 💬 Ask me about **Rust, TypeScript, Java, or Python**. Please reach out if you have any internship or research opportunities to share!
   
 - 📄 See my [resume](https://drive.google.com/file/d/1S6u-HWRs5mCOkWlcEkEWPTdENWePJptc/view?usp=sharing)  
 
