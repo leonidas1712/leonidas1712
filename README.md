@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonidas</h1>
 <h3 align="center">A Year 3 Computer Science major at the National University of Singapore passionate about systems programming, programming languages, algorithms and web development.</h3>
 
-- 🔭 I’m currently working on [Nova, a functional programming language inspired by Haskell and Lisp.](https://github.com/leonidas1712/nova)
+- 🔭 I’m currently working on [findw, an advanced CLI tool to search pages recursively for matches in text content](https://github.com/leonidas1712/findw)
 
 - 🌱 I’m currently learning **Docker, Node.js and concurrent programming in Rust.**
 
