@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leonidas</h1>
 <h3 align="center">A Year 3 Computer Science major at the National University of Singapore passionate about systems programming, programming languages, algorithms and web development.</h3>
 
-- 🔭 I’m currently working on [findw, an advanced CLI tool to search pages recursively for matches in text content](https://github.com/leonidas1712/findw)
+- 🔭 I’m currently working on [RustScript, a statically typed programming language that compiles to a custom bytecode to run on a virtual machine. It has Rust-like syntax and supports higher order functions and concurrency.](https://github.com/crabscript/rustscript)
 
 - 🌱 I’m currently learning **Docker, Node.js and concurrent programming in Rust.**
 
