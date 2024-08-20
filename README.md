@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A Year 3 Computer Science major at the National University of Singapore passionate about systems programming, programming languages, algorithms and web development.</h3>
+<h3 align="center">A Year 3 Computer Science major at the National University of Singapore passionate about systems programming, programming languages, and web development.</h3>
 
 - 🔭 I’m currently working on [RustScript](https://github.com/crabscript/rustscript). RustScript is a statically typed programming language that compiles to a custom bytecode to run on a virtual machine. It has Rust-like syntax / semantics and supports higher order functions and concurrency.
 
