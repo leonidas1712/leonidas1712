@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on PaySync, an AI-powered financial insights platform. 
 
-- 🌱 I’m currently learning **Docker, Node.js and concurrent programming in Rust.**
+- 🌱 I’m currently learning PyTorch and about how to build robust agentic workflows with large language models.
 
 - 📝 I write tech articles on [Medium](https://medium.com/@leonidasr2000).
 
