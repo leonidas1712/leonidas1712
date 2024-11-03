@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A final year Computer Science major at the National University of Singapore passionate about systems programming, programming languages, and AI.</h3>
+<h3 align="center">A final year Computer Science major at the National University of Singapore passionate about systems programming, programming languages, and applied AI.</h3>
 
 - 🔭 I’m currently working on PaySync, an AI-powered financial insights platform. 
 
