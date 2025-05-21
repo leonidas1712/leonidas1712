@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A final year Computer Science major at the National University of Singapore passionate about systems programming, programming languages, and applied AI.</h3>
 
-- 🔭 I’m currently working on PaySync, an AI-powered financial insights platform. 
+- 🔭 I’m currently working on [Argo](https://github.com/leonidas1712/argo), a minimalist desktop client to chat with local LLMs running through Ollama. 
 
 - 🌱 I’m currently learning PyTorch and about how to build robust agentic workflows with large language models.
 
