@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
 <h3 align="center">A final year Computer Science major at the National University of Singapore passionate about systems programming, programming languages, and applied AI.</h3>
 
-- 🔭 I’m currently working on [Argo](https://github.com/leonidas1712/argo), a minimalist desktop client to chat with local LLMs running through Ollama. 
+- 🔭 I’m currently an AI Developer at SAP Labs in Singapore where I work on AI agents for enterprise automation. Outside work, I am interested in AI safety research and in ensuring that AI progress enables human flourishing.
 
 - 🌱 I’m currently learning PyTorch and about how to build robust agentic workflows with large language models.
 
