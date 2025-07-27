@@ -3,11 +3,9 @@
 
 - 🔭 I’m currently an AI Developer at SAP Labs in Singapore where I work on AI agents for enterprise automation. Outside work, I am interested in AI safety research and in ensuring that AI progress enables human flourishing.
 
-- 🌱 I’m currently learning PyTorch and about how to build robust agentic workflows with large language models.
-
 - 📝 I write tech articles on [Medium](https://medium.com/@leonidasr2000).
 
-- 💬 Ask me about **Rust, TypeScript, Java, or Python**. Please reach out if you have any internship or research opportunities to share!
+- 💬 Ask me about **Rust, TypeScript, Java, or Python**. Please reach out if you have any job or research opportunities to share!
 
 - 📫 How to reach me: **leonidasr2000@gmail.com**
 
