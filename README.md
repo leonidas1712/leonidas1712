@@ -3,7 +3,7 @@
 
 🔬 Current: ML Engineer at SAP Labs building AI agents for enterprise automation. 
 
-🦀 Projects: Built a [programming language interpreter](https://github.com/crabscript/rustscript) and [concurrent web scraper](https://github.com/leonidas1712/findw/tree/main) in Rust. 
+🦀 Projects: Built a [programming language interpreter](https://github.com/crabscript/rustscript), [concurrent web scraper](https://github.com/leonidas1712/findw/tree/main), and [local LLM chat client](https://github.com/leonidas1712/argo) in Rust. 
 
 🤖 Research: Interested in AI safety, alignment, and interpretability. Worked on a [project investigating LLM ethics under corporate pressure](https://github.com/leonidas1712/MilgramBench). Eager to collaborate on AI safety research. 
 
