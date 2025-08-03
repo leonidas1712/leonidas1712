@@ -1,14 +1,3 @@
-<h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A Computer Science graduate from the National University of Singapore passionate about systems programming, programming languages, and applied AI. Past internships and projects in software engineering, data engineering and systems programming. </h3>
-
-🔬 Current: ML Engineer at SAP Labs building AI agents for enterprise automation. Recently published research on LLM ethics under corporate pressure.
-
-🦀 **Projects**: Built a [programming language interpreter](https://github.com/crabscript/rustscript) and [concurrent web scraper](https://github.com/leonidas1712/findw/tree/main) in Rust.
-
-🤖 Interested in AI safety, alignment, and interpretability. Open to collaborations in AI safety research.
-
-📫 Reach me: leonidasr2000@gmail.com
-
 <h1 align="center">Hi 👋, I'm Leo</h1> 
 <h3 align="center">Computer Science graduate from the National University of Singapore passionate about applied AI, AI safety and systems programming. </h3> 
 
