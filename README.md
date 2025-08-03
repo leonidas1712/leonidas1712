@@ -1,13 +1,24 @@
 <h1 align="center">Hi 👋, I'm Leo</h1>
-<h3 align="center">A final year Computer Science major at the National University of Singapore passionate about systems programming, programming languages, and applied AI.</h3>
+<h3 align="center">A Computer Science graduate from the National University of Singapore passionate about systems programming, programming languages, and applied AI. Past internships and projects in software engineering, data engineering and systems programming. </h3>
 
-- 🔭 I’m currently an AI Developer at SAP Labs in Singapore where I work on AI agents for enterprise automation. Outside work, I am interested in AI safety research and in ensuring that AI progress enables human flourishing.
+🔬 Current: ML Engineer at SAP Labs building AI agents for enterprise automation. Recently published research on LLM ethics under corporate pressure.
 
-- 📝 I write tech articles on [Medium](https://medium.com/@leonidasr2000).
+🦀 **Projects**: Built a [programming language interpreter](https://github.com/crabscript/rustscript) and [concurrent web scraper](https://github.com/leonidas1712/findw/tree/main) in Rust.
 
-- 💬 Ask me about **Rust, TypeScript, Java, or Python**. Please reach out if you have any job or research opportunities to share!
+🤖 Interested in AI safety, alignment, and interpretability. Open to collaborations in AI safety research.
 
-- 📫 How to reach me: **leonidasr2000@gmail.com**
+📫 Reach me: leonidasr2000@gmail.com
+
+<h1 align="center">Hi 👋, I'm Leo</h1> 
+<h3 align="center">Computer Science graduate from the National University of Singapore passionate about applied AI, AI safety and systems programming. </h3> 
+
+🔬 Current: ML Engineer at SAP Labs building AI agents for enterprise automation. 
+
+🦀 Projects: Built a [programming language interpreter](https://github.com/crabscript/rustscript) and [concurrent web scraper](https://github.com/leonidas1712/findw/tree/main) in Rust. 
+
+🤖 Research: Interested in AI safety, alignment, and interpretability. Worked on a [project investigating LLM ethics under corporate pressure](https://github.com/leonidas1712/MilgramBench). Eager to collaborate on AI safety research. 
+
+📫 Feel free to reach out: leonidasr2000@gmail.com
 
 
 <h3 align="center">Languages and Tools:</h3>
