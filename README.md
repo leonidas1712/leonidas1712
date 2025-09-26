@@ -10,7 +10,9 @@
 
 🤖 **Research**:  
 - [MilgramBench](https://github.com/leonidas1712/MilgramBench): a benchmark probing how LLMs respond to ethical pressure in institutional contexts  
-- Interested in AI safety and alignment research — always keen to learn and collaborate  
+- Interested in AI safety and alignment research — always keen to learn and collaborate
+
+🌐 **Website**: [leonidasr.com](https://leonidasr.com)  
 
 📫 **Contact**: leonidasr2000@gmail.com
 
