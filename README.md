@@ -5,7 +5,7 @@
 
 🦀 **Projects**:  
 - [RustScript](https://github.com/crabscript/rustscript): an interpreter with a bytecode VM, static type checker, and concurrency primitives  
-- [finw](https://github.com/leonidas1712/findw/tree/main): a concurrent, recursive web scraper in Rust with async + synchronization  
+- [findw](https://github.com/leonidas1712/findw/tree/main): a concurrent, recursive web scraper in Rust with async + synchronization  
 - [Argo](https://github.com/leonidas1712/argo): a local-first LLM research assistant (Rust + Tauri)  
 
 🤖 **Research**:  
