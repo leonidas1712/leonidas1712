@@ -1,13 +1,19 @@
 <h1 align="center">Hi 👋, I'm Leo</h1> 
-<h3 align="center">Computer Science graduate from the National University of Singapore passionate about applied AI, AI safety and systems programming. </h3> 
+<h3 align="center">CS graduate from NUS | ML Engineer at SAP | Interested in AI agents, safety, and systems programming</h3> 
 
-🔬 Current: ML Engineer at SAP Labs building AI agents for enterprise automation. 
+🔬 **Current**: ML Engineer at SAP Labs, working on AI agents for enterprise automation.  
 
-🦀 Projects: Built a [programming language interpreter](https://github.com/crabscript/rustscript), [concurrent web scraper](https://github.com/leonidas1712/findw/tree/main), and [local LLM chat client](https://github.com/leonidas1712/argo) in Rust. 
+🦀 **Projects**:  
+- [RustScript](https://github.com/crabscript/rustscript): an interpreter with a bytecode VM, static type checker, and concurrency primitives  
+- [FindW](https://github.com/leonidas1712/findw/tree/main): a concurrent, recursive web scraper in Rust with async + synchronization  
+- [Argo](https://github.com/leonidas1712/argo): a local-first LLM research assistant (Rust + Tauri)  
 
-🤖 Research: Interested in AI alignment, evaluations and interpretability. Worked on a [project](https://github.com/leonidas1712/MilgramBench) investigating LLM ethics under corporate pressure. Eager to collaborate on AI safety research. 
+🤖 **Research**:  
+- [MilgramBench](https://github.com/leonidas1712/MilgramBench): a benchmark probing how LLMs respond to ethical pressure in institutional contexts  
+- Interested in alignment, evaluations, and mechanistic interpretability — always keen to learn and collaborate  
 
-📫 Feel free to reach out: leonidasr2000@gmail.com
+📫 **Contact**: leonidasr2000@gmail.com
+
 
 
 <h3 align="center">Languages and Tools:</h3>
