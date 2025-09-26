@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Leo</h1> 
-<h3 align="center">CS graduate from NUS | ML Engineer at SAP | Interested in AI agents, safety, and systems programming</h3> 
+<h3 align="center">CS graduate from NUS | ML Engineer at SAP</h3> 
 
 🔬 **Current**: ML Engineer at SAP Labs, building AI agents
 
