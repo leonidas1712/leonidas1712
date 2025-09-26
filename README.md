@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Leo</h1> 
 <h3 align="center">CS graduate from NUS | ML Engineer at SAP | Interested in AI agents, safety, and systems programming</h3> 
 
-🔬 **Current**: ML Engineer at SAP Labs, working on AI agents for enterprise automation.  
+🔬 **Current**: ML Engineer at SAP Labs, building AI agents
 
 🦀 **Projects**:  
 - [RustScript](https://github.com/crabscript/rustscript): an interpreter with a bytecode VM, static type checker, and concurrency primitives  
-- [FindW](https://github.com/leonidas1712/findw/tree/main): a concurrent, recursive web scraper in Rust with async + synchronization  
+- [finw](https://github.com/leonidas1712/findw/tree/main): a concurrent, recursive web scraper in Rust with async + synchronization  
 - [Argo](https://github.com/leonidas1712/argo): a local-first LLM research assistant (Rust + Tauri)  
 
 🤖 **Research**:  
