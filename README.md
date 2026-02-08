@@ -9,7 +9,8 @@
 - [Argo](https://github.com/leonidas1712/argo): a local-first LLM research assistant (Rust + Tauri)  
 
 🤖 **Research**:  
-- [MilgramBench](https://github.com/leonidas1712/MilgramBench): a benchmark probing how LLMs respond to ethical pressure in institutional contexts  
+- [MilgramBench](https://github.com/leonidas1712/MilgramBench): A benchmark probing how LLMs respond to ethical pressure in institutional contexts
+- [Agent Attacks via Memory Injection](https://github.com/leonidas1712/agent-attacks-memory-injection): An investigation of the efficacy of memory injection against agents as compared to direct pressure. Won 4th place at the Apart Research Manipulation Hackathon (2026)
 - Interested in AI safety and alignment research — always keen to learn and collaborate
 
 🌐 **Website**: [leonidasr.com](https://leonidasr.com)  
